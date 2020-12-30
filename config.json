@@ -1,0 +1,14 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql+pymysql://root:@localhost/mizanblog",
+    "prod_uri": "mysql+pymysql://mizan:@localhost/mizanblog",
+    "fb_url": "https://www.facebook.com/abdullahalmizan.mizan/",
+    "tw_url":"https://twitter.com/Abdulla48630947",
+    "git_url":"https://github.com/AbdullahAlmizan644",
+    "gmail-user": "abdullahalmizan644@gmail.com",
+    "gmail-password": "5255452554"
+  }
+
+}
